@@ -1,0 +1,10 @@
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\obj\Debug\LatihanPolymorphism2.csprojAssemblyReference.cache
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\obj\Debug\LatihanPolymorphism2.csproj.CoreCompileInputs.cache
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\bin\Debug\LatihanPolymorphism2.exe.config
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\bin\Debug\LatihanPolymorphism2.exe
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\bin\Debug\LatihanPolymorphism2.pdb
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\bin\Debug\Newtonsoft.Json.dll
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\bin\Debug\Newtonsoft.Json.xml
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\obj\Debug\LatihanPolymorphism2.csproj.CopyComplete
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\obj\Debug\LatihanPolymorphism2.exe
+D:\18.11.2250\LatihanPolymorphism2\LatihanPolymorphism2\LatihanPolymorphism2\obj\Debug\LatihanPolymorphism2.pdb
